@@ -6,3 +6,28 @@ theme = 're-terminal'
   [caches.images]
     dir = ':cacheDir/images'
 
+[params]
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "red"
+
+[languages]
+  [languages.en.params]
+    languageName = "English"
+    title = "THE ANDORI DATABASE"
+    subtitle = "A blog for the Mindustry mod 'BioTech'"
+    owner = "Jammuu"
+    keywords = "biotech, mindustry"
+    copyright = "MIT"
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "HAHA GET ERRORED ON"
+    missingBackButtonLabel = "Back to home page"
+    minuteReadingTime = "min read"
+    words = "words"
+
+    [languages.en.params.logo]
+      logoText = "re-Terminal"
+      logoHomeLink = "/"

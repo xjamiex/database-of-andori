@@ -15,5 +15,16 @@ color = "" #color from the theme settings
 +++
 
 Wow, i cant believe this thing works!!!!
-# WOWZAAA
+Wow, i cant believe this thing works!!!!
+Wow, i cant believe this thing works!!!!
+Wow, i cant believe this thing works!!!!
+Wow, i cant believe this thing works!!!!
+Wow, i cant believe this thing works!!!!
+Wow, i cant believe this thing works!!!!
+Wow, i cant believe this thing works!!!!
+Wow, i cant believe this thing works!!!!
+Wow, i cant believe this thing works!!!!
+Wow, i cant believe this thing works!!!!
+Wow, i cant believe this thing works!!!!
+WOWZAAA
 
