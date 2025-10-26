@@ -13,3 +13,7 @@ readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
+
+Wow, i cant believe this thing works!!!!
+# WOWZAAA
+
