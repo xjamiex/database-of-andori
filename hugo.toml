@@ -30,4 +30,4 @@ theme = 're-terminal'
 
     [languages.en.params.logo]
       logoText = "👁 The Andori Database 👁"
-      logoHomeLink = "/"
+      logoHomeLink = "/database-of-andori/"
