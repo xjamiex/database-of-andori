@@ -13,7 +13,7 @@ theme = 're-terminal'
 [languages]
   [languages.en.params]
     languageName = "English"
-    title = "THE ANDORI DATABASE"
+    title = "👁 The Andori Database 👁"
     subtitle = "A blog for the Mindustry mod 'BioTech'"
     owner = "Jammuu"
     keywords = "biotech, mindustry"
@@ -29,5 +29,5 @@ theme = 're-terminal'
     words = "words"
 
     [languages.en.params.logo]
-      logoText = "re-Terminal"
+      logoText = "👁 The Andori Database 👁"
       logoHomeLink = "/"
