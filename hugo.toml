@@ -1,4 +1,4 @@
-baseURL = 'https://database-of-andori.github.io/'
+baseURL = 'https://database-of-andori/'
 languageCode = 'en-us'
 title = 'THE ANDORI DATABASE'
 theme = 're-terminal'
