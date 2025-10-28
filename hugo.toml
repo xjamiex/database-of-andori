@@ -1,7 +1,7 @@
 baseURL = 'https://database-of-andori/'
 languageCode = 'en-us'
 title = 'THE ANDORI DATABASE'
-theme = 're-terminal'
+theme = 'jammuus-terminal'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
@@ -44,6 +44,3 @@ theme = 're-terminal'
       identifier = "0-0-1"
       name = "Log 0-0-1"
       url = "/0-0-1"
-
-[module]
-  replacements = "github.com/mirus-ua/hugo-theme-re-terminal -> themes/re-terminal"
