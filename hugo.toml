@@ -38,7 +38,7 @@ theme = 'jammuus-terminal'
 
     [languages.en.params.logo]
       logoText = "👁 The Andori Database 👁"
-      logoHomeLink = "/"
+      logoHomeLink = "/database-of-andori/"
 
     [[languages.en.menu.main]]
       identifier = "0-0-1"
