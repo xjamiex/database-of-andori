@@ -10,9 +10,7 @@ theme = 're-terminal'
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "red"
 
-  showMenuItems = 2
-
-  showLanguageSelector = true
+  showMenuItems = 1
 
   [params.banner]
     dismissible = false

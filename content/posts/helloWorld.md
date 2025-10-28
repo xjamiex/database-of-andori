@@ -1,13 +1,13 @@
 +++
-title = "Test Post"
+title = "Hello World!!!!"
 date = "2025-10-26T11:20:43-07:00"
 author = "Jammuu"
 authorTwitter = "" #do not include @
-cover = "img/logo.png"
+cover = ""
 coverCaption = ""
 tags = ["", ""]
 keywords = ["", ""]
-description = "A quick test to check if this works or not, heres a description i guess, do whatever u want with it"
+description = "Another testing post, sorry i swear ill actually write stuff soon"
 showFullContent = false
 readingTime = false
 hideComments = false
