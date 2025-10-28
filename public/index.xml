@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>THE ANDORI DATABASE</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/database-of-andori/</link>
     <description>Recent content on THE ANDORI DATABASE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 11:20:43 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 11:20:43 -0700</lastBuildDate><atom:link href="http://localhost:1313/database-of-andori/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!!!!</title>
-      <link>http://localhost:1313/posts/helloworld/</link>
+      <link>http://localhost:1313/database-of-andori/posts/helloworld/</link>
       <pubDate>Sun, 26 Oct 2025 11:20:43 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/helloworld/</guid>
+      <guid>http://localhost:1313/database-of-andori/posts/helloworld/</guid>
       <description>&lt;p&gt;Wow, i cant believe this thing works!!!!
 Wow, i cant believe this thing works!!!!
 Wow, i cant believe this thing works!!!!
@@ -44,10 +44,10 @@ WOWZAAA&lt;/p&gt;
     
     <item>
       <title>Test Post</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>http://localhost:1313/database-of-andori/posts/test/</link>
       <pubDate>Sun, 26 Oct 2025 11:20:43 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>http://localhost:1313/database-of-andori/posts/test/</guid>
       <description>&lt;p&gt;Wow, i cant believe this thing works!!!!
 Wow, i cant believe this thing works!!!!
 Wow, i cant believe this thing works!!!!
@@ -79,10 +79,10 @@ WOWZAAA&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/0-0-1/</link>
+      <link>http://localhost:1313/database-of-andori/0-0-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/0-0-1/</guid>
+      <guid>http://localhost:1313/database-of-andori/0-0-1/</guid>
       <description>&lt;h2 id=&#34;andori-log-i-a-unnamed&#34;&gt;ANDORI-LOG I-A &amp;ldquo;unnamed&amp;rdquo;&lt;/h2&gt;
 &lt;p&gt;It used to be so simple, no? Every day, repeating like a program being run over and over again. Sometimes I wish we could return to those times. Even the smallest moment of peace would help me see what beauty is left in this world.&lt;/p&gt;
 &lt;p&gt;The guys up there want us off of this planet as soon as possible, but they do not even have the slightest idea of what we are dealing with over here. This shit is contagious, it spreads like wildfire, consuming everything in its path given enough time. Land swept by it has either sprouted more of its kind, or been left a barren mess. We have been working our ass off trying to contain it in a small area, and now they want us to abandon all of our progress to go back and help them fend it off [REDACTED].&lt;/p&gt;</description>

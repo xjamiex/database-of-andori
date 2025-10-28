@@ -1,4 +1,4 @@
-baseURL = 'https://database-of-andori/'
+baseURL = 'https://xjamiex.github.io/database-of-andori'
 languageCode = 'en-us'
 title = 'THE ANDORI DATABASE'
 theme = 'jammuus-terminal'

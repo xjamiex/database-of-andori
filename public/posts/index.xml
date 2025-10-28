@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on THE ANDORI DATABASE</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/database-of-andori/posts/</link>
     <description>Recent content in Posts on THE ANDORI DATABASE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Oct 2025 11:20:43 -0700</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Oct 2025 11:20:43 -0700</lastBuildDate><atom:link href="http://localhost:1313/database-of-andori/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!!!!</title>
-      <link>http://localhost:1313/posts/helloworld/</link>
+      <link>http://localhost:1313/database-of-andori/posts/helloworld/</link>
       <pubDate>Sun, 26 Oct 2025 11:20:43 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/helloworld/</guid>
+      <guid>http://localhost:1313/database-of-andori/posts/helloworld/</guid>
       <description>&lt;p&gt;Wow, i cant believe this thing works!!!!
 Wow, i cant believe this thing works!!!!
 Wow, i cant believe this thing works!!!!
@@ -44,10 +44,10 @@ WOWZAAA&lt;/p&gt;
     
     <item>
       <title>Test Post</title>
-      <link>http://localhost:1313/posts/test/</link>
+      <link>http://localhost:1313/database-of-andori/posts/test/</link>
       <pubDate>Sun, 26 Oct 2025 11:20:43 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/test/</guid>
+      <guid>http://localhost:1313/database-of-andori/posts/test/</guid>
       <description>&lt;p&gt;Wow, i cant believe this thing works!!!!
 Wow, i cant believe this thing works!!!!
 Wow, i cant believe this thing works!!!!
