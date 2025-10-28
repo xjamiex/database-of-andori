@@ -10,6 +10,16 @@ theme = 're-terminal'
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "red"
 
+  showMenuItems = 2
+
+  showLanguageSelector = true
+
+  [params.banner]
+    dismissible = false
+    text = "Check it out on GitHub"
+    url = "https://github.com/xjamiex/BioTech"
+
+
 [languages]
   [languages.en.params]
     languageName = "English"
@@ -30,4 +40,12 @@ theme = 're-terminal'
 
     [languages.en.params.logo]
       logoText = "👁 The Andori Database 👁"
-      logoHomeLink = "/database-of-andori/"
+      logoHomeLink = "/"
+
+    [[languages.en.menu.main]]
+      identifier = "0-0-1"
+      name = "Log 0-0-1"
+      url = "/0-0-1"
+
+[module]
+  replacements = "github.com/mirus-ua/hugo-theme-re-terminal -> themes/re-terminal"
