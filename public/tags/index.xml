@@ -5,6 +5,27 @@
     <link>http://localhost:1313/database-of-andori/tags/</link>
     <description>Recent content in Tags on THE ANDORI DATABASE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://localhost:1313/database-of-andori/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Oct 2025 23:33:39 -0700</lastBuildDate><atom:link href="http://localhost:1313/database-of-andori/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Status-Update</title>
+      <link>http://localhost:1313/database-of-andori/tags/status-update/</link>
+      <pubDate>Mon, 27 Oct 2025 23:33:39 -0700</pubDate>
+      
+      <guid>http://localhost:1313/database-of-andori/tags/status-update/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Teaser</title>
+      <link>http://localhost:1313/database-of-andori/tags/teaser/</link>
+      <pubDate>Mon, 27 Oct 2025 23:33:39 -0700</pubDate>
+      
+      <guid>http://localhost:1313/database-of-andori/tags/teaser/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
   </channel>
 </rss>

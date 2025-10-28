@@ -3,18 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/database-of-andori/posts/</loc>
-    <lastmod>2025-10-26T11:20:43-07:00</lastmod>
+    <lastmod>2025-10-27T23:33:39-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/database-of-andori/posts/test/</loc>
-    <lastmod>2025-10-26T11:20:43-07:00</lastmod>
+    <loc>http://localhost:1313/database-of-andori/tags/status-update/</loc>
+    <lastmod>2025-10-27T23:33:39-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/database-of-andori/tags/</loc>
+    <lastmod>2025-10-27T23:33:39-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/database-of-andori/tags/teaser/</loc>
+    <lastmod>2025-10-27T23:33:39-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/database-of-andori/</loc>
+    <lastmod>2025-10-27T23:33:39-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/database-of-andori/posts/research-ima1/</loc>
+    <lastmod>2025-10-27T23:33:39-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/database-of-andori/posts/test/</loc>
     <lastmod>2025-10-26T11:20:43-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/database-of-andori/0-0-1/</loc>
   </url><url>
     <loc>http://localhost:1313/database-of-andori/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/database-of-andori/tags/</loc>
   </url>
 </urlset>

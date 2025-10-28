@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on THE ANDORI DATABASE</title>
-    <link>http://localhost:1313/database-of-andori/posts/</link>
-    <description>Recent content in Posts on THE ANDORI DATABASE</description>
+    <title>Status-Update on THE ANDORI DATABASE</title>
+    <link>http://localhost:1313/database-of-andori/tags/status-update/</link>
+    <description>Recent content in Status-Update on THE ANDORI DATABASE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Oct 2025 23:33:39 -0700</lastBuildDate><atom:link href="http://localhost:1313/database-of-andori/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Oct 2025 23:33:39 -0700</lastBuildDate><atom:link href="http://localhost:1313/database-of-andori/tags/status-update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Update regarding the research of &#39;A-51 Shomeret&#39;</title>
       <link>http://localhost:1313/database-of-andori/posts/research-ima1/</link>
